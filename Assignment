@@ -37,3 +37,12 @@ public:
         
     }
 };
+
+
+Input :
+
+towers =
+[[23,11,21]]
+
+radius =
+9
